@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1648894800 source:c:\users\mrsch\documents\schule\automation\5.klasse\drehzahlregelung_piregler\fuse.c
+	<avr/io.h>
+
+1648975653 source:c:\users\mrsch\documents\schule\automation\5.klasse\drehzahlregelung_piregler\usart.c
+	<avr/io.h>
+
+1649686190 source:c:\users\mrsch\documents\schule\automation\5.klasse\drehzahlregelung_piregler\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"USART_SerielleSchnittstelle.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1612783807 c:\users\mrsch\documents\schule\automation\5.klasse\drehzahlregelung_piregler\usart_serielleschnittstelle.h
+
